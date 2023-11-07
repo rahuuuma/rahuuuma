@@ -1,3 +1,5 @@
+# About Me
+
 - 👋 Hi, I’m @rahuuuma
 - 👀 I’m a 📈 Senior Growth Analyst | 📊 Data Enthusiast | 📣 Data Storyteller
 - 📚 Constantly learning and evolving in the ever-changing data landscape. 
